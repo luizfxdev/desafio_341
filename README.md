@@ -291,7 +291,12 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 **Desenvolvido com 💜 e ☕ por Luiz FX**
 
 ⭐ Se este projeto foi útil, considere dar uma estrela!
+<br/>
+<br/>
+
+
+***Aprenda uma lição por dia. Em um ano terá aprendido 365 lições.*** (Ditado japonês)
 
 </div>
 
-***Aprenda uma lição por dia. Em um ano terá aprendido 365 lições.*** (Ditado japonês)
+
